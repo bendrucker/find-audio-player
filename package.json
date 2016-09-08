@@ -1,7 +1,7 @@
 {
   "name": "find-audio-player",
   "main": "index.js",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Find the first available audio player",
   "license": "MIT",
   "repository": "bendrucker/find-audio-player",
