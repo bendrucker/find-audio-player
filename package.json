@@ -1,0 +1,36 @@
+{
+  "name": "find-audio-player",
+  "main": "index.js",
+  "version": "0.0.0",
+  "description": "Find the first available audio player",
+  "license": "MIT",
+  "repository": "bendrucker/find-audio-player",
+  "author": {
+    "name": "Ben Drucker",
+    "email": "bvdrucker@gmail.com",
+    "url": "bendrucker.me"
+  },
+  "scripts": {
+    "test": "standard && tape test.js"
+  },
+  "keywords": [
+    "audio",
+    "mp3",
+    "player",
+    "find",
+    "which"
+  ],
+  "devDependencies": {
+    "proxyquire": "~1.7.10",
+    "standard": "^7.0.0",
+    "tape": "^4.0.0"
+  },
+  "files": [
+    "*.js",
+    "players.json"
+  ],
+  "dependencies": {
+    "run-parallel": "~1.1.6",
+    "which": "~1.2.11"
+  }
+}
