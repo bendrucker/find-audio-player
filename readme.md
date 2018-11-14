@@ -1,4 +1,4 @@
-# find-audio-player [![Build Status](https://travis-ci.org/bendrucker/find-audio-player.svg?branch=master)](https://travis-ci.org/bendrucker/find-audio-player)
+# find-audio-player [![Build Status](https://travis-ci.org/bendrucker/find-audio-player.svg?branch=master)](https://travis-ci.org/bendrucker/find-audio-player) [![Greenkeeper badge](https://badges.greenkeeper.io/bendrucker/find-audio-player.svg)](https://greenkeeper.io/)
 
 > Find the first available audio player
 
