@@ -21,8 +21,8 @@
     "which"
   ],
   "devDependencies": {
-    "proxyquire": "~1.7.10",
-    "standard": "^7.0.0",
+    "proxyquire": "~2.1.0",
+    "standard": "^12.0.1",
     "tape": "^4.0.0"
   },
   "files": [
@@ -31,6 +31,6 @@
   ],
   "dependencies": {
     "run-parallel": "~1.1.6",
-    "which": "~1.2.11"
+    "which": "~1.3.1"
   }
 }
