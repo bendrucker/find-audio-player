@@ -49,6 +49,8 @@ test('async', function (t) {
       t.equal(err.message, 'boom')
     })
   })
+
+  t.end()
 })
 
 test('sync', function (t) {
@@ -94,6 +96,8 @@ test('sync', function (t) {
 
     t.end()
   })
+
+  t.end()
 })
 
 function ENOENT (command) {
